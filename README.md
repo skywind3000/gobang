@@ -31,7 +31,7 @@ if you want to make a new move below the white stone 'X', just enter 'JI' (row i
 
 ![](https://raw.githubusercontent.com/skywind3000/gobang/master/images/gobang3.png)
 
-After entering 'JI' the computer will think for a few seconds and make its move too. Then another turn begins, you can input new row-col values to continue playing until someone wins. 
+After entering 'JI' the computer will think for a few seconds and makes its move too. Then another turn begins, you can input new row-col values to continue playing until someone wins. 
 
 
 
