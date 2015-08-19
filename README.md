@@ -21,12 +21,13 @@ Game Rule
 Make five or more stones in a in to win. You will make your move by enter the coordinate value (row + column) of the chess-board to defeat the AI competitor.
 
 Play it in the console:
+
 ![](https://raw.githubusercontent.com/skywind3000/gobang/master/images/gobang1.png)
 
 Character 'O' - black stone (you)
 Character 'X' - white stone (computer)
 
-if you want to make a new move right below the white stone 'X', just enter 'JI' (row is 'J', and column is 'I'):
+if you want to make a new move below the white stone 'X', just enter 'JI' (row is 'J', and column is 'I'):
 
 ![](https://raw.githubusercontent.com/skywind3000/gobang/master/images/gobang3.png)
 
