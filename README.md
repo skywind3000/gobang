@@ -1,6 +1,6 @@
 # gobang
 
-Gobang game with artificial intelligence in 900 Lines !!
+Gobang game with artificial intelligence in 900 Lines !! 
 
 How to play
 ===========
@@ -18,7 +18,9 @@ play in hard mode：
 Game Help
 =========
 
-Make five or more stones in a in to win.
+Make five or more stones in a in to win. you will make your move by enter the coordinate value of the chess-board.
+
+
 
 
 
