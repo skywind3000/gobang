@@ -15,10 +15,12 @@ play in hard mode：
 > python gobang/gobang.py hard 
 
 
-Game Help
+Game Rule
 =========
 
-Make five or more stones in a in to win. you will make your move by enter the coordinate value of the chess-board.
+Make five or more stones in a in to win. You will make your move by enter the coordinate value (row + column) of the chess-board to defeat the AI competitor.
+
+
 
 
 
