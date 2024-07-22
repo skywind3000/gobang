@@ -4,7 +4,7 @@
 #
 # gobang.py - Gobang game with AI opponent in 900 Lines !!
 #
-# Created by skywind on 2015/07/12
+# Created by skywind on 2011/11/01
 # Last Modified: 2024/07/22 14:51:11
 #
 #======================================================================
