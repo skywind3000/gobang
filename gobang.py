@@ -2,14 +2,12 @@
 # -*- coding: utf-8 -*-
 #======================================================================
 #
-# gobang.py - 
+# gobang.py - Gobang game with AI opponent in 900 Lines !!
 #
 # Created by skywind on 2015/07/12
 # Last Modified: 2024/07/22 14:51:11
 #
 #======================================================================
-#! /usr/bin/env python
-# -*- coding: utf-8 -*-
 from __future__ import unicode_literals, print_function
 import sys
 import time
